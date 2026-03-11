@@ -1,1 +1,250 @@
-# cloudformation solution goes here
+AWSTemplateFormatVersion: '2010-09-09'
+Description: DS5220 DP1 anomaly detection infrastructure
+
+# Parameters for the stack
+Parameters:
+  MyIP:
+    Type: String
+    Description: MY public IP in CIDR format for SSH, e.g. 1.2.3.4/32
+
+  VpcId:
+    Type: AWS::EC2::VPC::Id
+    Description: VPC ID to deploy into (e.g. default VPC)
+
+  SubnetId:
+    Type: AWS::EC2::Subnet::Id
+    Description: Subnet ID for the EC2 instance (must be in the VpcId above)
+
+  KeyName:
+    Type: AWS::EC2::KeyPair::KeyName
+    Description: Existing EC2 key pair for SSH
+
+  RepoURL:
+    Type: String
+    Description: Git URL of your forked anomaly-detection repo
+    Default: https://github.com/zoehendershot/anomaly-detection
+
+  BucketName:
+    Type: String
+    Default: "anomaly-detection-bucket-zoehendershot"
+    Description: s3 bucket name
+
+Resources:
+  AppBucket:
+    Type: AWS::S3::Bucket
+    DependsOn: AppTopicPolicy
+    Properties:
+      BucketName:
+        Ref: BucketName
+      NotificationConfiguration:
+        TopicConfigurations:
+          - Event: s3:ObjectCreated:*
+            Topic:
+              Ref: AppTopic
+            Filter:
+              S3Key:
+                Rules:
+                  - Name: prefix
+                    Value: raw/
+                  - Name: suffix
+                    Value: .csv
+
+  AppSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Security group for anomaly detection API
+      VpcId:
+        Ref: VpcId
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp:
+            Ref: MyIP
+        - IpProtocol: tcp
+          FromPort: 8000
+          ToPort: 8000
+          CidrIp: 0.0.0.0/0
+      SecurityGroupEgress:
+        - IpProtocol: -1
+          CidrIp: 0.0.0.0/0
+
+  AppRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: ec2.amazonaws.com
+            Action: sts:AssumeRole
+      Policies:
+        - PolicyName: AppBucketAccess
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:ListBucket
+                Resource:
+                  Fn::GetAtt: [AppBucket, Arn]
+              - Effect: Allow
+                Action:
+                  - s3:GetObject
+                  - s3:PutObject
+                  - s3:DeleteObject
+                Resource:
+                  Fn::Sub: "${AppBucket.Arn}/*"
+
+  AppInstanceProfile:
+    Type: AWS::IAM::InstanceProfile
+    Properties:
+      Roles:
+        - Ref: AppRole
+
+  AppTopic:
+    Type: AWS::SNS::Topic
+    Properties:
+      TopicName: ds5220-dp1
+
+  AppInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t3.micro
+      SubnetId:
+        Ref: SubnetId
+      KeyName:
+        Ref: KeyName
+      IamInstanceProfile:
+        Ref: AppInstanceProfile
+      SecurityGroupIds:
+        - Ref: AppSecurityGroup
+      ImageId:
+        Fn::Sub: "{{resolve:ssm:/aws/service/canonical/ubuntu/server/24.04/stable/current/amd64/hvm/ebs-gp3/ami-id}}"
+      BlockDeviceMappings:
+        - DeviceName: /dev/sda1
+          Ebs:
+            VolumeSize: 16
+            VolumeType: gp3
+            DeleteOnTermination: true
+      UserData:
+        Fn::Base64:
+          Fn::Sub: |
+            #!/bin/bash
+            set -euxo pipefail
+
+            apt-get update
+            apt-get install -y git python3 python3-venv python3-pip
+
+            cd /home/ubuntu
+            if [ -d /home/ubuntu/app/.git ]; then
+              git -C /home/ubuntu/app pull --ff-only
+            else
+              rm -rf /home/ubuntu/app
+              git clone ${RepoURL} app
+            fi
+            chown -R ubuntu:ubuntu /home/ubuntu/app
+
+            cd /home/ubuntu/app
+            sudo -u ubuntu python3 -m venv venv
+            sudo -u ubuntu /home/ubuntu/app/venv/bin/pip install --upgrade pip
+            sudo -u ubuntu /home/ubuntu/app/venv/bin/pip install -r requirements.txt
+
+            # Persist BUCKET_NAME for future logins/reboots
+            if grep -q '^BUCKET_NAME=' /etc/environment; then
+              sed -i "s/^BUCKET_NAME=.*/BUCKET_NAME=${AppBucket}/" /etc/environment
+            else
+              echo "BUCKET_NAME=${AppBucket}" >> /etc/environment
+            fi
+
+            # Export for this bootstrap session
+            export BUCKET_NAME='${AppBucket}'
+
+            cat >/etc/systemd/system/anomaly-api.service <<EOF
+            [Unit]
+            Description=FastAPI anomaly detection service
+            After=network.target
+
+            [Service]
+            User=ubuntu
+            WorkingDirectory=/home/ubuntu/app
+            Environment=BUCKET_NAME=${AppBucket}
+            ExecStart=/home/ubuntu/app/venv/bin/fastapi run app.py --host 0.0.0.0 --port 8000
+            Restart=always
+
+            [Install]
+            WantedBy=multi-user.target
+            EOF
+
+            systemctl daemon-reload
+            systemctl enable anomaly-api.service
+            systemctl start anomaly-api.service
+
+  AppEIP:
+    Type: AWS::EC2::EIP
+    Properties:
+      Domain: vpc
+
+  AppEIPAssociation:
+    Type: AWS::EC2::EIPAssociation
+    Properties:
+      InstanceId:
+        Ref: AppInstance
+      AllocationId:
+        Ref: AppEIP
+
+  AppSubscription:
+    Type: AWS::SNS::Subscription
+    Properties:
+      Protocol: http
+      TopicArn:
+        Ref: AppTopic
+      Endpoint:
+        Fn::Sub:
+          - "http://${PublicIp}:8000/notify"
+          - PublicIp:
+              Fn::GetAtt: [AppEIP, PublicIp]
+
+  AppTopicPolicy:
+    Type: AWS::SNS::TopicPolicy
+    Properties:
+      Topics:
+        - Ref: AppTopic
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: s3.amazonaws.com
+            Action: SNS:Publish
+            Resource:
+              Ref: AppTopic
+            Condition:
+              StringEquals:
+                aws:SourceAccount:
+                  Ref: "AWS::AccountId"
+
+Outputs:
+  InstanceId:
+    Value:
+      Ref: AppInstance
+
+  ElasticIP:
+    Value:
+      Fn::GetAtt: [AppEIP, PublicIp]
+
+  BucketNameOut:
+    Value:
+      Ref: AppBucket
+
+  TopicArn:
+    Value:
+      Ref: AppTopic
+
+  ApiURL:
+    Value:
+      Fn::Sub:
+        - "http://${PublicIp}:8000"
+        - PublicIp:
+            Fn::GetAtt: [AppEIP, PublicIp]
