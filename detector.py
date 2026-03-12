@@ -2,21 +2,11 @@
 import math
 import numpy as np
 import pandas as pd
-import logging
 from sklearn.ensemble import IsolationForest
 from typing import Optional
+from logging_utils import get_logger
 
-# Configure logging to both console and file
-log_file = "/var/log/anomaly-api.log"
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 
 class AnomalyDetector:

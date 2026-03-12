@@ -2,7 +2,6 @@
 import io
 import json
 import os
-import logging
 import boto3
 import pandas as pd
 import requests
@@ -10,18 +9,9 @@ from datetime import datetime
 from fastapi import FastAPI, BackgroundTasks, Request, HTTPException
 from baseline import BaselineManager
 from processor import process_file
+from logging_utils import get_logger
 
-# Configure logging to both console and file
-log_file = "/var/log/anomaly-api.log"
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 app = FastAPI(title="Anomaly Detection Pipeline")
 
@@ -36,20 +26,6 @@ except Exception as e:
     logger.error(f"Failed to initialize application: {e}", exc_info=True)
     raise
 
-
-def sync_log_to_s3():
-    try:
-        log_path = "/var/log/anomaly-api.log"
-        s3_key = "logs/anomaly-api.log"
-
-        if os.path.exists(log_path):
-            s3.upload_file(log_path, BUCKET_NAME, s3_key)
-            logger.info(f"Uploaded log file to s3://{BUCKET_NAME}/{s3_key}")
-        else:
-            logger.warning("Log file not found, skipping S3 upload")
-
-    except Exception as e:
-        logger.error(f"Failed to upload log file: {e}", exc_info=True)
 
 # ── SNS subscription confirmation + message handler ──────────────────────────
 
@@ -253,8 +229,7 @@ def get_current_baseline():
         try:
             baseline = baseline_mgr.load()
             baseline_mgr.save(baseline)
-            logger.info("Saved baseline.json to S3")
-            sync_log_to_s3()
+            logger.info("Saved baseline.json to S3 and synced logs")
         except Exception as e:
             logger.error(f"Failed to load baseline: {e}", exc_info=True)
             raise HTTPException(status_code=500, detail=f"Failed to load baseline: {str(e)}")

@@ -1,62 +1,14 @@
 #!/usr/bin/env python3
 import json
 import math
-import logging
-import os
 import boto3
 from datetime import datetime
 from typing import Optional
+from logging_utils import get_logger, sync_log_file_to_s3
 
-# Configure logging to both console and file
-log_file = "/var/log/anomaly-api.log"
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 s3 = boto3.client("s3")
-
-
-def sync_log_to_s3(bucket: str, log_file_path: str = "/var/log/anomaly-api.log"):
-    """
-    Sync the application log file to S3 whenever baseline is saved.
-    Uploads to logs/anomaly-api-{timestamp}.log
-    """
-    try:
-        if not os.path.exists(log_file_path):
-            logger.warning(f"Log file does not exist: {log_file_path}")
-            return
-        
-        # Read current log file
-        with open(log_file_path, 'r') as f:
-            log_content = f.read()
-        
-        if not log_content.strip():
-            logger.debug("Log file is empty, skipping sync")
-            return
-        
-        # Create timestamped log key
-        timestamp = datetime.utcnow().strftime("%Y%m%d-%H%M%S")
-        log_key = f"logs/anomaly-api-{timestamp}.log"
-        
-        # Upload to S3
-        s3.put_object(
-            Bucket=bucket,
-            Key=log_key,
-            Body=log_content,
-            ContentType="text/plain"
-        )
-        logger.info(f"Synced log file to s3://{bucket}/{log_key}")
-    except PermissionError:
-        logger.warning(f"Permission denied reading log file: {log_file_path}")
-    except Exception as e:
-        logger.error(f"Failed to sync log file to S3: {e}", exc_info=True)
-
 
 class BaselineManager:
     """
@@ -92,23 +44,30 @@ class BaselineManager:
     def save(self, baseline: dict):
         baseline["last_updated"] = datetime.utcnow().isoformat()
         baseline_json = json.dumps(baseline, indent=2)
+        try:
+            s3.put_object(
+                Bucket=self.bucket,
+                Key=self.baseline_key,
+                Body=baseline_json,
+                ContentType="application/json"
+            )
+            logger.info("EVENT: Baseline updated - saved to s3://%s/%s", self.bucket, self.baseline_key)
 
-        # copy of final baseline
-        s3.put_object(
-            Bucket=self.bucket,
-            Key="state/baseline-final.json",
-            Body=baseline_json,
-            ContentType="application/json"
-        )
-        logger.info(f"Saved final baseline copy to s3://{self.bucket}/state/baseline-final.json")
+            s3.put_object(
+                Bucket=self.bucket,
+                Key="state/baseline-final.json",
+                Body=baseline_json,
+                ContentType="application/json"
+            )
+            logger.info("Saved final baseline copy to s3://%s/state/baseline-final.json", self.bucket)
 
-        # sync log file too
-        log_path = "/var/log/anomaly-api.log"
-        if os.path.exists(log_path):
-            s3.upload_file(log_path, self.bucket, "logs/anomaly-api.log")
-            logger.info(f"Uploaded log file to s3://{self.bucket}/logs/anomaly-api.log")
-        else:
-            logger.warning("Log file not found, skipping log upload")
+            # Keep a fresh copy of the local app log in S3 whenever baseline.json is pushed.
+            sync_log_file_to_s3(s3, self.bucket, s3_key="logs/anomaly-api.log", logger=logger)
+        except Exception as e:
+            error_msg = f"Failed to save baseline to S3: {e}"
+            logger.error(error_msg, exc_info=True)
+            print(f"ERROR: {error_msg}")
+            raise
 
 
     def update(self, baseline: dict, channel: str, new_values: list[float]) -> dict:

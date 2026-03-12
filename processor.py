@@ -1,25 +1,15 @@
 #!/usr/bin/env python3
 import json
 import io
-import logging
 import boto3
 import pandas as pd
 from datetime import datetime
 
 from baseline import BaselineManager
 from detector import AnomalyDetector
+from logging_utils import get_logger
 
-# Configure logging to both console and file
-log_file = "/var/log/anomaly-api.log"
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 s3 = boto3.client("s3")
 
