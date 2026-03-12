@@ -1,0 +1,1656 @@
+2026-03-12 02:47:22,884 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 02:47:24,788 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 02:47:24,898 - uvicorn.error - INFO - Started server process [2942]
+2026-03-12 02:47:24,899 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 02:47:24,900 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 02:47:24,902 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 03:13:03,071 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:13:04,789 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:15:00,854 - uvicorn.error - INFO - Shutting down
+2026-03-12 03:15:00,955 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 03:15:00,956 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 03:15:00,957 - uvicorn.error - INFO - Finished server process [2942]
+2026-03-12 03:15:04,118 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:15:05,653 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:15:05,739 - uvicorn.error - INFO - Started server process [3204]
+2026-03-12 03:15:05,740 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 03:15:05,741 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 03:15:05,742 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 03:15:18,709 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:15:19,951 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:22:07,142 - uvicorn.error - INFO - Shutting down
+2026-03-12 03:22:07,243 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 03:22:07,244 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 03:22:07,244 - uvicorn.error - INFO - Finished server process [3204]
+2026-03-12 03:22:08,539 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:22:09,717 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:22:09,778 - uvicorn.error - INFO - Started server process [3236]
+2026-03-12 03:22:09,779 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 03:22:09,779 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 03:22:09,780 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 03:30:06,745 - uvicorn.error - INFO - Shutting down
+2026-03-12 03:30:06,846 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 03:30:06,847 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 03:30:06,847 - uvicorn.error - INFO - Finished server process [3236]
+2026-03-12 03:30:08,834 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:30:10,300 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:30:10,395 - uvicorn.error - INFO - Started server process [3598]
+2026-03-12 03:30:10,395 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 03:30:10,396 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 03:30:10,397 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 03:42:33,351 - uvicorn.error - INFO - Shutting down
+2026-03-12 03:42:33,452 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 03:42:33,453 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 03:42:33,453 - uvicorn.error - INFO - Finished server process [3598]
+2026-03-12 03:42:34,918 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:42:36,096 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:42:36,153 - uvicorn.error - INFO - Started server process [3724]
+2026-03-12 03:42:36,154 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 03:42:36,154 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 03:42:36,155 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 03:43:22,274 - uvicorn.error - INFO - Shutting down
+2026-03-12 03:43:22,375 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 03:43:22,376 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 03:43:22,377 - uvicorn.error - INFO - Finished server process [3724]
+2026-03-12 03:43:23,437 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 03:43:24,601 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 03:43:24,655 - uvicorn.error - INFO - Started server process [3788]
+2026-03-12 03:43:24,656 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 03:43:24,657 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 03:43:24,658 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 04:06:19,203 - uvicorn.error - INFO - Shutting down
+2026-03-12 04:06:19,308 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 04:06:19,309 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 04:06:19,309 - uvicorn.error - INFO - Finished server process [3788]
+2026-03-12 04:06:21,261 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 04:06:23,517 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 04:06:23,649 - uvicorn.error - INFO - Started server process [8700]
+2026-03-12 04:06:23,650 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 04:06:23,651 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 04:06:23,653 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 04:08:39,452 - app - INFO - Received SNS message type: SubscriptionConfirmation
+2026-03-12 04:08:39,452 - app - INFO - Confirming SNS subscription: https://sns.us-east-1.amazonaws.com/?Action=ConfirmSubscription&TopicArn=arn:aws:sns:us-east-1:762233742648:ds5220-dp1&Token=2336412f37fb687f5d51e6e2425929f52e8e345517f4a4ba8dbc51a5c04ca9d8d14d2814119a0e608eed96f65cbf0b5b522e5a352ce836a6805c2fc5f279369b31d1d3eaf38322a2ff392490bc87f9a551b07e937b2f0bcfee27df9209c12cc239883c1a1655d3d7b87ec1c01aa8f02b
+2026-03-12 04:08:39,606 - app - INFO - SNS subscription confirmed successfully
+2026-03-12 04:08:41,310 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:08:41,310 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:08:41,310 - app - INFO - Processing S3 object: raw/sensors_20260312T040840.csv
+2026-03-12 04:08:41,310 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T040840.csv
+2026-03-12 04:08:41,310 - app - INFO - Queued processing task for: raw/sensors_20260312T040840.csv
+2026-03-12 04:08:41,311 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T040840.csv
+2026-03-12 04:08:41,387 - processor - INFO - Downloaded 5306 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T040840.csv
+2026-03-12 04:08:41,392 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:08:41,461 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:08:41,461 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:08:41,462 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8655, std=1.5965
+2026-03-12 04:08:41,462 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:08:41,462 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.9140, std=4.9235
+2026-03-12 04:08:41,462 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:08:41,463 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.3511, std=5.0421
+2026-03-12 04:08:41,463 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:08:41,463 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.1236, std=2.8929
+2026-03-12 04:08:41,463 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:08:41,463 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:08:41,464 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:08:41,647 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:08:41,647 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:08:41,689 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T040840.csv
+2026-03-12 04:08:41,721 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:08:41,750 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:08:41,751 - processor - INFO - Baseline saved successfully
+2026-03-12 04:08:41,781 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T040840_summary.json
+2026-03-12 04:08:41,781 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:09:01,699 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:09:01,699 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:09:01,699 - app - INFO - Processing S3 object: raw/manual_test_20260312T040900.csv
+2026-03-12 04:09:01,699 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/manual_test_20260312T040900.csv
+2026-03-12 04:09:01,699 - app - INFO - Queued processing task for: raw/manual_test_20260312T040900.csv
+2026-03-12 04:09:01,701 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/manual_test_20260312T040900.csv
+2026-03-12 04:09:01,785 - processor - INFO - Downloaded 5323 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/manual_test_20260312T040900.csv
+2026-03-12 04:09:01,786 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:09:01,887 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:09:01,887 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:09:01,888 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8114, std=1.3294
+2026-03-12 04:09:01,888 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:09:01,888 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.9479, std=7.3654
+2026-03-12 04:09:01,889 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:09:01,889 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.5555, std=3.7135
+2026-03-12 04:09:01,889 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:09:01,889 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.4816, std=3.7285
+2026-03-12 04:09:01,889 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:09:01,889 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:09:01,890 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:09:02,080 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:09:02,081 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:09:02,122 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/manual_test_20260312T040900.csv
+2026-03-12 04:09:02,149 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:09:02,182 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:09:02,182 - processor - INFO - Baseline saved successfully
+2026-03-12 04:09:02,214 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/manual_test_20260312T040900_summary.json
+2026-03-12 04:09:02,215 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:09:33,385 - app - INFO - Fetching current baseline
+2026-03-12 04:09:33,451 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:09:33,471 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:09:33,497 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:09:33,497 - app - INFO - Saved baseline.json to S3
+2026-03-12 04:09:33,579 - app - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:09:33,579 - app - INFO - Returning baseline with 0 channels
+2026-03-12 04:09:41,795 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:09:41,795 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:09:41,795 - app - INFO - Processing S3 object: raw/sensors_20260312T040940.csv
+2026-03-12 04:09:41,795 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T040940.csv
+2026-03-12 04:09:41,795 - app - INFO - Queued processing task for: raw/sensors_20260312T040940.csv
+2026-03-12 04:09:41,796 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T040940.csv
+2026-03-12 04:09:41,868 - processor - INFO - Downloaded 5329 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T040940.csv
+2026-03-12 04:09:41,869 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:09:41,935 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:09:41,936 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:09:41,936 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8931, std=1.7378
+2026-03-12 04:09:41,936 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:09:41,937 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.7933, std=4.8139
+2026-03-12 04:09:41,937 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:09:41,937 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.3949, std=3.7407
+2026-03-12 04:09:41,937 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:09:41,937 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.6877, std=4.0139
+2026-03-12 04:09:41,938 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:09:41,938 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:09:41,938 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:09:42,098 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:09:42,099 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:09:42,132 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T040940.csv
+2026-03-12 04:09:42,163 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:09:42,196 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:09:42,197 - processor - INFO - Baseline saved successfully
+2026-03-12 04:09:42,229 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T040940_summary.json
+2026-03-12 04:09:42,229 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:10:26,513 - uvicorn.error - INFO - Shutting down
+2026-03-12 04:10:26,615 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-03-12 04:10:26,615 - uvicorn.error - INFO - Application shutdown complete.
+2026-03-12 04:10:26,616 - uvicorn.error - INFO - Finished server process [8700]
+2026-03-12 04:10:28,412 - botocore.credentials - INFO - Found credentials from IAM Role: ds5220-dp1-AppRole-QgI5ZNOU9fMs
+2026-03-12 04:10:30,062 - app - INFO - Application initialized with bucket: anomaly-detection-bucket-zoehendershot
+2026-03-12 04:10:30,168 - uvicorn.error - INFO - Started server process [8741]
+2026-03-12 04:10:30,168 - uvicorn.error - INFO - Waiting for application startup.
+2026-03-12 04:10:30,169 - uvicorn.error - INFO - Application startup complete.
+2026-03-12 04:10:30,170 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-03-12 04:11:32,386 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:11:32,386 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:11:32,386 - app - INFO - Processing S3 object: raw/sensors_20260312T041131.csv
+2026-03-12 04:11:32,386 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041131.csv
+2026-03-12 04:11:32,386 - app - INFO - Queued processing task for: raw/sensors_20260312T041131.csv
+2026-03-12 04:11:32,394 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041131.csv
+2026-03-12 04:11:32,470 - processor - INFO - Downloaded 5325 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041131.csv
+2026-03-12 04:11:32,474 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:11:32,543 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:11:32,543 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:11:32,544 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0756, std=1.6241
+2026-03-12 04:11:32,544 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:11:32,545 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.7791, std=4.3162
+2026-03-12 04:11:32,545 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:11:32,545 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9191, std=3.6951
+2026-03-12 04:11:32,545 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:11:32,545 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.5411, std=3.2497
+2026-03-12 04:11:32,546 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:11:32,546 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:11:32,546 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:11:32,729 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:11:32,730 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:11:32,782 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041131.csv
+2026-03-12 04:11:32,815 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:11:32,848 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:11:32,848 - processor - INFO - Baseline saved successfully
+2026-03-12 04:11:32,882 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041131_summary.json
+2026-03-12 04:11:32,883 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:12:32,033 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:12:32,033 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:12:32,033 - app - INFO - Processing S3 object: raw/sensors_20260312T041231.csv
+2026-03-12 04:12:32,033 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041231.csv
+2026-03-12 04:12:32,033 - app - INFO - Queued processing task for: raw/sensors_20260312T041231.csv
+2026-03-12 04:12:32,034 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041231.csv
+2026-03-12 04:12:32,112 - processor - INFO - Downloaded 5319 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041231.csv
+2026-03-12 04:12:32,113 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:12:32,182 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:12:32,183 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:12:32,183 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.9965, std=1.5645
+2026-03-12 04:12:32,183 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:12:32,184 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.0869, std=5.4134
+2026-03-12 04:12:32,184 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:12:32,184 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.2525, std=4.6821
+2026-03-12 04:12:32,184 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:12:32,185 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9195, std=3.2638
+2026-03-12 04:12:32,185 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:12:32,185 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:12:32,185 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:12:32,349 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:12:32,350 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:12:32,381 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041231.csv
+2026-03-12 04:12:32,409 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:12:32,441 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:12:32,441 - processor - INFO - Baseline saved successfully
+2026-03-12 04:12:32,469 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041231_summary.json
+2026-03-12 04:12:32,469 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:13:32,299 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:13:32,299 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:13:32,299 - app - INFO - Processing S3 object: raw/sensors_20260312T041331.csv
+2026-03-12 04:13:32,299 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041331.csv
+2026-03-12 04:13:32,299 - app - INFO - Queued processing task for: raw/sensors_20260312T041331.csv
+2026-03-12 04:13:32,300 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041331.csv
+2026-03-12 04:13:32,375 - processor - INFO - Downloaded 5311 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041331.csv
+2026-03-12 04:13:32,376 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:13:32,451 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:13:32,452 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:13:32,452 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.9974, std=1.9388
+2026-03-12 04:13:32,452 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:13:32,453 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.4861, std=5.5981
+2026-03-12 04:13:32,453 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:13:32,453 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.1800, std=4.1826
+2026-03-12 04:13:32,453 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:13:32,454 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.7211, std=3.7098
+2026-03-12 04:13:32,454 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:13:32,454 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:13:32,454 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:13:32,613 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:13:32,614 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:13:32,657 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041331.csv
+2026-03-12 04:13:32,687 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:13:32,718 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:13:32,718 - processor - INFO - Baseline saved successfully
+2026-03-12 04:13:32,747 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041331_summary.json
+2026-03-12 04:13:32,748 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:14:32,032 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:14:32,032 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:14:32,032 - app - INFO - Processing S3 object: raw/sensors_20260312T041431.csv
+2026-03-12 04:14:32,032 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041431.csv
+2026-03-12 04:14:32,032 - app - INFO - Queued processing task for: raw/sensors_20260312T041431.csv
+2026-03-12 04:14:32,033 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041431.csv
+2026-03-12 04:14:32,117 - processor - INFO - Downloaded 5328 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041431.csv
+2026-03-12 04:14:32,119 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:14:32,191 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:14:32,192 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:14:32,192 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0937, std=1.5527
+2026-03-12 04:14:32,192 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:14:32,193 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.0799, std=5.9814
+2026-03-12 04:14:32,193 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:14:32,193 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9081, std=3.5923
+2026-03-12 04:14:32,193 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:14:32,194 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.4151, std=3.4628
+2026-03-12 04:14:32,194 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:14:32,194 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:14:32,194 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:14:32,353 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:14:32,353 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:14:32,439 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041431.csv
+2026-03-12 04:14:32,486 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:14:32,524 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:14:32,524 - processor - INFO - Baseline saved successfully
+2026-03-12 04:14:32,580 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041431_summary.json
+2026-03-12 04:14:32,580 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:15:32,503 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:15:32,503 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:15:32,503 - app - INFO - Processing S3 object: raw/sensors_20260312T041531.csv
+2026-03-12 04:15:32,503 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041531.csv
+2026-03-12 04:15:32,503 - app - INFO - Queued processing task for: raw/sensors_20260312T041531.csv
+2026-03-12 04:15:32,504 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041531.csv
+2026-03-12 04:15:32,598 - processor - INFO - Downloaded 5321 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041531.csv
+2026-03-12 04:15:32,600 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:15:32,663 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:15:32,663 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:15:32,664 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.3808, std=2.7472
+2026-03-12 04:15:32,664 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:15:32,665 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.5933, std=6.4777
+2026-03-12 04:15:32,665 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:15:32,665 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.7498, std=3.2909
+2026-03-12 04:15:32,665 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:15:32,665 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.5902, std=2.5616
+2026-03-12 04:15:32,666 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:15:32,666 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:15:32,666 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:15:32,828 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:15:32,828 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:15:32,893 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041531.csv
+2026-03-12 04:15:32,920 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:15:32,949 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:15:32,950 - processor - INFO - Baseline saved successfully
+2026-03-12 04:15:32,981 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041531_summary.json
+2026-03-12 04:15:32,981 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:16:32,741 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:16:32,741 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:16:32,741 - app - INFO - Processing S3 object: raw/sensors_20260312T041631.csv
+2026-03-12 04:16:32,741 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041631.csv
+2026-03-12 04:16:32,741 - app - INFO - Queued processing task for: raw/sensors_20260312T041631.csv
+2026-03-12 04:16:32,743 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041631.csv
+2026-03-12 04:16:32,816 - processor - INFO - Downloaded 5319 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041631.csv
+2026-03-12 04:16:32,817 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:16:32,881 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:16:32,881 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:16:32,882 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0565, std=1.5073
+2026-03-12 04:16:32,882 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:16:32,882 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.3311, std=7.1573
+2026-03-12 04:16:32,882 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:16:32,883 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.5547, std=3.8249
+2026-03-12 04:16:32,883 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:16:32,883 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9481, std=3.3344
+2026-03-12 04:16:32,883 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:16:32,883 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:16:32,883 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:16:33,043 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:16:33,043 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:16:33,077 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041631.csv
+2026-03-12 04:16:33,105 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:16:33,138 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:16:33,138 - processor - INFO - Baseline saved successfully
+2026-03-12 04:16:33,167 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041631_summary.json
+2026-03-12 04:16:33,167 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:17:32,656 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:17:32,657 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:17:32,657 - app - INFO - Processing S3 object: raw/sensors_20260312T041731.csv
+2026-03-12 04:17:32,657 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041731.csv
+2026-03-12 04:17:32,657 - app - INFO - Queued processing task for: raw/sensors_20260312T041731.csv
+2026-03-12 04:17:32,658 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041731.csv
+2026-03-12 04:17:32,731 - processor - INFO - Downloaded 5315 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041731.csv
+2026-03-12 04:17:32,733 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:17:32,802 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:17:32,802 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:17:32,803 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0501, std=2.2358
+2026-03-12 04:17:32,803 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:17:32,804 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=56.1156, std=6.1758
+2026-03-12 04:17:32,804 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:17:32,804 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.3919, std=4.0259
+2026-03-12 04:17:32,804 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:17:32,804 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0208, std=2.6066
+2026-03-12 04:17:32,805 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:17:32,805 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:17:32,805 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:17:32,970 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:17:32,970 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:17:33,003 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041731.csv
+2026-03-12 04:17:33,033 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:17:33,062 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:17:33,062 - processor - INFO - Baseline saved successfully
+2026-03-12 04:17:33,086 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041731_summary.json
+2026-03-12 04:17:33,086 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:18:32,812 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:18:32,812 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:18:32,812 - app - INFO - Processing S3 object: raw/sensors_20260312T041831.csv
+2026-03-12 04:18:32,812 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041831.csv
+2026-03-12 04:18:32,812 - app - INFO - Queued processing task for: raw/sensors_20260312T041831.csv
+2026-03-12 04:18:32,813 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041831.csv
+2026-03-12 04:18:32,891 - processor - INFO - Downloaded 5321 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041831.csv
+2026-03-12 04:18:32,892 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:18:32,958 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:18:32,958 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:18:32,958 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8564, std=1.6118
+2026-03-12 04:18:32,958 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:18:32,959 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.4871, std=5.0622
+2026-03-12 04:18:32,959 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:18:32,959 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.6755, std=4.3492
+2026-03-12 04:18:32,959 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:18:32,960 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0229, std=3.8146
+2026-03-12 04:18:32,960 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:18:32,960 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:18:32,960 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:18:33,119 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:18:33,120 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:18:33,154 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041831.csv
+2026-03-12 04:18:33,186 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:18:33,221 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:18:33,221 - processor - INFO - Baseline saved successfully
+2026-03-12 04:18:33,250 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041831_summary.json
+2026-03-12 04:18:33,251 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:19:32,368 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:19:32,368 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:19:32,368 - app - INFO - Processing S3 object: raw/sensors_20260312T041931.csv
+2026-03-12 04:19:32,368 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041931.csv
+2026-03-12 04:19:32,368 - app - INFO - Queued processing task for: raw/sensors_20260312T041931.csv
+2026-03-12 04:19:32,370 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041931.csv
+2026-03-12 04:19:32,446 - processor - INFO - Downloaded 5308 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T041931.csv
+2026-03-12 04:19:32,448 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:19:32,512 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:19:32,512 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:19:32,512 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8480, std=1.5544
+2026-03-12 04:19:32,513 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:19:32,513 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.1354, std=5.5970
+2026-03-12 04:19:32,513 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:19:32,513 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.4742, std=5.0964
+2026-03-12 04:19:32,513 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:19:32,514 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9375, std=2.5099
+2026-03-12 04:19:32,514 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:19:32,514 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:19:32,514 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:19:32,674 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:19:32,674 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:19:32,702 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041931.csv
+2026-03-12 04:19:32,733 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:19:32,766 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:19:32,766 - processor - INFO - Baseline saved successfully
+2026-03-12 04:19:32,806 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T041931_summary.json
+2026-03-12 04:19:32,806 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:20:32,971 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:20:32,971 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:20:32,971 - app - INFO - Processing S3 object: raw/sensors_20260312T042031.csv
+2026-03-12 04:20:32,971 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042031.csv
+2026-03-12 04:20:32,971 - app - INFO - Queued processing task for: raw/sensors_20260312T042031.csv
+2026-03-12 04:20:32,973 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042031.csv
+2026-03-12 04:20:33,058 - processor - INFO - Downloaded 5317 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042031.csv
+2026-03-12 04:20:33,060 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:20:33,132 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:20:33,132 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:20:33,133 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8443, std=1.7083
+2026-03-12 04:20:33,133 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:20:33,133 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.1644, std=5.9945
+2026-03-12 04:20:33,133 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:20:33,134 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.3776, std=4.5042
+2026-03-12 04:20:33,134 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:20:33,134 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9602, std=3.1458
+2026-03-12 04:20:33,134 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:20:33,134 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:20:33,134 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:20:33,295 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:20:33,296 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:20:33,331 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042031.csv
+2026-03-12 04:20:33,359 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:20:33,422 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:20:33,422 - processor - INFO - Baseline saved successfully
+2026-03-12 04:20:33,460 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042031_summary.json
+2026-03-12 04:20:33,460 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:21:33,278 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:21:33,278 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:21:33,278 - app - INFO - Processing S3 object: raw/sensors_20260312T042132.csv
+2026-03-12 04:21:33,278 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042132.csv
+2026-03-12 04:21:33,278 - app - INFO - Queued processing task for: raw/sensors_20260312T042132.csv
+2026-03-12 04:21:33,279 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042132.csv
+2026-03-12 04:21:33,358 - processor - INFO - Downloaded 5310 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042132.csv
+2026-03-12 04:21:33,359 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:21:33,425 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:21:33,425 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:21:33,425 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.7472, std=2.4393
+2026-03-12 04:21:33,426 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:21:33,426 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.4041, std=6.4232
+2026-03-12 04:21:33,426 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:21:33,427 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.0279, std=2.9164
+2026-03-12 04:21:33,427 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:21:33,427 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.6413, std=3.2074
+2026-03-12 04:21:33,427 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:21:33,427 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:21:33,427 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:21:33,587 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:21:33,587 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:21:33,658 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042132.csv
+2026-03-12 04:21:33,694 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:21:33,723 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:21:33,724 - processor - INFO - Baseline saved successfully
+2026-03-12 04:21:33,766 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042132_summary.json
+2026-03-12 04:21:33,766 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:22:32,939 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:22:32,939 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:22:32,939 - app - INFO - Processing S3 object: raw/sensors_20260312T042232.csv
+2026-03-12 04:22:32,939 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042232.csv
+2026-03-12 04:22:32,939 - app - INFO - Queued processing task for: raw/sensors_20260312T042232.csv
+2026-03-12 04:22:32,941 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042232.csv
+2026-03-12 04:22:33,018 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042232.csv
+2026-03-12 04:22:33,019 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:22:33,091 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:22:33,091 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:22:33,092 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8245, std=1.4813
+2026-03-12 04:22:33,092 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:22:33,092 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.4178, std=6.0443
+2026-03-12 04:22:33,092 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:22:33,092 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.0536, std=3.7245
+2026-03-12 04:22:33,093 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:22:33,093 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.1093, std=3.7277
+2026-03-12 04:22:33,093 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:22:33,093 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:22:33,093 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:22:33,252 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:22:33,253 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:22:33,288 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042232.csv
+2026-03-12 04:22:33,323 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:22:33,396 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:22:33,396 - processor - INFO - Baseline saved successfully
+2026-03-12 04:22:33,428 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042232_summary.json
+2026-03-12 04:22:33,428 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:23:33,308 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:23:33,308 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:23:33,308 - app - INFO - Processing S3 object: raw/sensors_20260312T042332.csv
+2026-03-12 04:23:33,308 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042332.csv
+2026-03-12 04:23:33,308 - app - INFO - Queued processing task for: raw/sensors_20260312T042332.csv
+2026-03-12 04:23:33,309 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042332.csv
+2026-03-12 04:23:33,381 - processor - INFO - Downloaded 5328 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042332.csv
+2026-03-12 04:23:33,382 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:23:33,447 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:23:33,447 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:23:33,448 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.7317, std=1.9169
+2026-03-12 04:23:33,448 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:23:33,448 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.1027, std=5.3918
+2026-03-12 04:23:33,448 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:23:33,449 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1011.8580, std=3.6445
+2026-03-12 04:23:33,449 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:23:33,449 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.8987, std=4.3079
+2026-03-12 04:23:33,449 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:23:33,449 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:23:33,450 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:23:33,608 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:23:33,609 - processor - INFO - EVENT: Detection calculations completed - 7 anomalies detected out of 100 rows
+2026-03-12 04:23:33,645 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042332.csv
+2026-03-12 04:23:33,675 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:23:33,704 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:23:33,704 - processor - INFO - Baseline saved successfully
+2026-03-12 04:23:33,732 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042332_summary.json
+2026-03-12 04:23:33,732 - processor - INFO - Successfully processed: 7/100 anomalies flagged
+2026-03-12 04:24:32,847 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:24:32,847 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:24:32,847 - app - INFO - Processing S3 object: raw/sensors_20260312T042432.csv
+2026-03-12 04:24:32,847 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042432.csv
+2026-03-12 04:24:32,847 - app - INFO - Queued processing task for: raw/sensors_20260312T042432.csv
+2026-03-12 04:24:32,848 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042432.csv
+2026-03-12 04:24:32,923 - processor - INFO - Downloaded 5326 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042432.csv
+2026-03-12 04:24:32,924 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:24:32,992 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:24:32,993 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:24:32,993 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.6938, std=2.2386
+2026-03-12 04:24:32,993 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:24:32,994 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.2078, std=5.6282
+2026-03-12 04:24:32,994 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:24:32,994 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.2565, std=3.6367
+2026-03-12 04:24:32,994 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:24:32,995 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.7054, std=2.9006
+2026-03-12 04:24:32,995 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:24:32,995 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:24:32,995 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:24:33,153 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:24:33,154 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:24:33,182 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042432.csv
+2026-03-12 04:24:33,228 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:24:33,263 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:24:33,264 - processor - INFO - Baseline saved successfully
+2026-03-12 04:24:33,300 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042432_summary.json
+2026-03-12 04:24:33,300 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:25:33,301 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:25:33,302 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:25:33,302 - app - INFO - Processing S3 object: raw/sensors_20260312T042532.csv
+2026-03-12 04:25:33,302 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042532.csv
+2026-03-12 04:25:33,302 - app - INFO - Queued processing task for: raw/sensors_20260312T042532.csv
+2026-03-12 04:25:33,303 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042532.csv
+2026-03-12 04:25:33,382 - processor - INFO - Downloaded 5312 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042532.csv
+2026-03-12 04:25:33,383 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:25:33,446 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:25:33,447 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:25:33,447 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0911, std=1.6945
+2026-03-12 04:25:33,447 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:25:33,448 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.8616, std=8.2176
+2026-03-12 04:25:33,448 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:25:33,448 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.2867, std=3.6602
+2026-03-12 04:25:33,448 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:25:33,449 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.3780, std=2.5222
+2026-03-12 04:25:33,449 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:25:33,449 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:25:33,449 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:25:33,609 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:25:33,609 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:25:33,653 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042532.csv
+2026-03-12 04:25:33,683 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:25:33,714 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:25:33,714 - processor - INFO - Baseline saved successfully
+2026-03-12 04:25:33,761 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042532_summary.json
+2026-03-12 04:25:33,761 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:26:33,595 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:26:33,596 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:26:33,596 - app - INFO - Processing S3 object: raw/sensors_20260312T042632.csv
+2026-03-12 04:26:33,596 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042632.csv
+2026-03-12 04:26:33,596 - app - INFO - Queued processing task for: raw/sensors_20260312T042632.csv
+2026-03-12 04:26:33,597 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042632.csv
+2026-03-12 04:26:33,668 - processor - INFO - Downloaded 5316 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042632.csv
+2026-03-12 04:26:33,669 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:26:33,736 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:26:33,736 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:26:33,737 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.2350, std=1.6879
+2026-03-12 04:26:33,737 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:26:33,737 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.4527, std=5.3034
+2026-03-12 04:26:33,737 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:26:33,738 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.7008, std=4.0901
+2026-03-12 04:26:33,738 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:26:33,738 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.2159, std=2.9028
+2026-03-12 04:26:33,738 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:26:33,738 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:26:33,739 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:26:33,902 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:26:33,902 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:26:33,935 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042632.csv
+2026-03-12 04:26:33,974 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:26:34,018 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:26:34,019 - processor - INFO - Baseline saved successfully
+2026-03-12 04:26:34,047 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042632_summary.json
+2026-03-12 04:26:34,047 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:27:33,365 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:27:33,365 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:27:33,365 - app - INFO - Processing S3 object: raw/sensors_20260312T042732.csv
+2026-03-12 04:27:33,365 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042732.csv
+2026-03-12 04:27:33,365 - app - INFO - Queued processing task for: raw/sensors_20260312T042732.csv
+2026-03-12 04:27:33,367 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042732.csv
+2026-03-12 04:27:33,439 - processor - INFO - Downloaded 5331 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042732.csv
+2026-03-12 04:27:33,440 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:27:33,510 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:27:33,510 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:27:33,511 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.7572, std=1.8426
+2026-03-12 04:27:33,511 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:27:33,511 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=53.5551, std=6.2839
+2026-03-12 04:27:33,511 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:27:33,512 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.0842, std=3.8480
+2026-03-12 04:27:33,512 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:27:33,512 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0189, std=3.3358
+2026-03-12 04:27:33,512 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:27:33,512 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:27:33,512 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:27:33,677 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:27:33,678 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:27:33,715 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042732.csv
+2026-03-12 04:27:33,746 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:27:33,804 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:27:33,804 - processor - INFO - Baseline saved successfully
+2026-03-12 04:27:33,835 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042732_summary.json
+2026-03-12 04:27:33,835 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:28:33,797 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:28:33,798 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:28:33,798 - app - INFO - Processing S3 object: raw/sensors_20260312T042832.csv
+2026-03-12 04:28:33,798 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042832.csv
+2026-03-12 04:28:33,798 - app - INFO - Queued processing task for: raw/sensors_20260312T042832.csv
+2026-03-12 04:28:33,799 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042832.csv
+2026-03-12 04:28:33,894 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042832.csv
+2026-03-12 04:28:33,895 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:28:33,954 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:28:33,954 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:28:33,954 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.6729, std=1.8031
+2026-03-12 04:28:33,955 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:28:33,955 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.1484, std=7.8191
+2026-03-12 04:28:33,955 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:28:33,956 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.5256, std=2.8824
+2026-03-12 04:28:33,956 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:28:33,956 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.6501, std=2.8355
+2026-03-12 04:28:33,956 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:28:33,956 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:28:33,956 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:28:34,121 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:28:34,122 - processor - INFO - EVENT: Detection calculations completed - 7 anomalies detected out of 100 rows
+2026-03-12 04:28:34,158 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042832.csv
+2026-03-12 04:28:34,187 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:28:34,264 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:28:34,264 - processor - INFO - Baseline saved successfully
+2026-03-12 04:28:34,302 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042832_summary.json
+2026-03-12 04:28:34,302 - processor - INFO - Successfully processed: 7/100 anomalies flagged
+2026-03-12 04:29:33,456 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:29:33,456 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:29:33,456 - app - INFO - Processing S3 object: raw/sensors_20260312T042932.csv
+2026-03-12 04:29:33,456 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042932.csv
+2026-03-12 04:29:33,456 - app - INFO - Queued processing task for: raw/sensors_20260312T042932.csv
+2026-03-12 04:29:33,457 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042932.csv
+2026-03-12 04:29:33,535 - processor - INFO - Downloaded 5314 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T042932.csv
+2026-03-12 04:29:33,537 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:29:33,602 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:29:33,602 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:29:33,603 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8908, std=1.5662
+2026-03-12 04:29:33,603 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:29:33,603 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=52.7965, std=9.9202
+2026-03-12 04:29:33,603 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:29:33,604 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.4572, std=3.2615
+2026-03-12 04:29:33,604 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:29:33,604 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9990, std=2.8653
+2026-03-12 04:29:33,604 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:29:33,604 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:29:33,605 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:29:33,765 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:29:33,765 - processor - INFO - EVENT: Detection calculations completed - 7 anomalies detected out of 100 rows
+2026-03-12 04:29:33,802 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042932.csv
+2026-03-12 04:29:33,835 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:29:33,940 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:29:33,941 - processor - INFO - Baseline saved successfully
+2026-03-12 04:29:33,976 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T042932_summary.json
+2026-03-12 04:29:33,976 - processor - INFO - Successfully processed: 7/100 anomalies flagged
+2026-03-12 04:30:33,924 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:30:33,924 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:30:33,924 - app - INFO - Processing S3 object: raw/sensors_20260312T043032.csv
+2026-03-12 04:30:33,924 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043032.csv
+2026-03-12 04:30:33,925 - app - INFO - Queued processing task for: raw/sensors_20260312T043032.csv
+2026-03-12 04:30:33,926 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043032.csv
+2026-03-12 04:30:34,008 - processor - INFO - Downloaded 5310 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043032.csv
+2026-03-12 04:30:34,009 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:30:34,070 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:30:34,070 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:30:34,071 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8490, std=1.4534
+2026-03-12 04:30:34,071 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:30:34,071 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.5485, std=6.1633
+2026-03-12 04:30:34,071 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:30:34,072 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9952, std=4.2616
+2026-03-12 04:30:34,072 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:30:34,072 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.3138, std=3.1250
+2026-03-12 04:30:34,072 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:30:34,072 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:30:34,072 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:30:34,231 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:30:34,231 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:30:34,271 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043032.csv
+2026-03-12 04:30:34,299 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:30:34,365 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:30:34,365 - processor - INFO - Baseline saved successfully
+2026-03-12 04:30:34,399 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043032_summary.json
+2026-03-12 04:30:34,399 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:31:33,370 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:31:33,370 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:31:33,370 - app - INFO - Processing S3 object: raw/sensors_20260312T043132.csv
+2026-03-12 04:31:33,370 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043132.csv
+2026-03-12 04:31:33,370 - app - INFO - Queued processing task for: raw/sensors_20260312T043132.csv
+2026-03-12 04:31:33,372 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043132.csv
+2026-03-12 04:31:33,450 - processor - INFO - Downloaded 5320 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043132.csv
+2026-03-12 04:31:33,451 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:31:33,514 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:31:33,514 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:31:33,514 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1363, std=1.7981
+2026-03-12 04:31:33,515 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:31:33,515 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=56.5407, std=8.3566
+2026-03-12 04:31:33,515 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:31:33,515 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.4057, std=3.2825
+2026-03-12 04:31:33,516 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:31:33,516 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.6279, std=2.6170
+2026-03-12 04:31:33,516 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:31:33,516 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:31:33,516 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:31:33,675 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:31:33,676 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:31:33,709 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043132.csv
+2026-03-12 04:31:33,735 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:31:33,783 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:31:33,783 - processor - INFO - Baseline saved successfully
+2026-03-12 04:31:33,824 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043132_summary.json
+2026-03-12 04:31:33,824 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:32:33,891 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:32:33,892 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:32:33,892 - app - INFO - Processing S3 object: raw/sensors_20260312T043232.csv
+2026-03-12 04:32:33,892 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043232.csv
+2026-03-12 04:32:33,892 - app - INFO - Queued processing task for: raw/sensors_20260312T043232.csv
+2026-03-12 04:32:33,893 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043232.csv
+2026-03-12 04:32:34,009 - processor - INFO - Downloaded 5323 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043232.csv
+2026-03-12 04:32:34,010 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:32:34,075 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:32:34,075 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:32:34,076 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.7203, std=1.6340
+2026-03-12 04:32:34,076 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:32:34,076 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.7070, std=6.4141
+2026-03-12 04:32:34,076 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:32:34,076 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.8515, std=2.8842
+2026-03-12 04:32:34,077 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:32:34,077 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.1218, std=4.5311
+2026-03-12 04:32:34,077 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:32:34,077 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:32:34,077 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:32:34,237 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:32:34,237 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:32:34,274 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043232.csv
+2026-03-12 04:32:34,309 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:32:34,377 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:32:34,377 - processor - INFO - Baseline saved successfully
+2026-03-12 04:32:34,408 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043232_summary.json
+2026-03-12 04:32:34,408 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:33:34,384 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:33:34,385 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:33:34,385 - app - INFO - Processing S3 object: raw/sensors_20260312T043333.csv
+2026-03-12 04:33:34,385 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043333.csv
+2026-03-12 04:33:34,385 - app - INFO - Queued processing task for: raw/sensors_20260312T043333.csv
+2026-03-12 04:33:34,386 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043333.csv
+2026-03-12 04:33:34,456 - processor - INFO - Downloaded 5327 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043333.csv
+2026-03-12 04:33:34,458 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:33:34,524 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:33:34,525 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:33:34,525 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1149, std=1.5577
+2026-03-12 04:33:34,525 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:33:34,526 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.6663, std=9.0679
+2026-03-12 04:33:34,526 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:33:34,526 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.0357, std=3.5431
+2026-03-12 04:33:34,526 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:33:34,527 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.7681, std=2.2097
+2026-03-12 04:33:34,527 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:33:34,527 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:33:34,527 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:33:34,685 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:33:34,685 - processor - INFO - EVENT: Detection calculations completed - 7 anomalies detected out of 100 rows
+2026-03-12 04:33:34,723 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043333.csv
+2026-03-12 04:33:34,755 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:33:34,821 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:33:34,821 - processor - INFO - Baseline saved successfully
+2026-03-12 04:33:34,856 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043333_summary.json
+2026-03-12 04:33:34,856 - processor - INFO - Successfully processed: 7/100 anomalies flagged
+2026-03-12 04:34:33,961 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:34:33,961 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:34:33,961 - app - INFO - Processing S3 object: raw/sensors_20260312T043433.csv
+2026-03-12 04:34:33,961 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043433.csv
+2026-03-12 04:34:33,961 - app - INFO - Queued processing task for: raw/sensors_20260312T043433.csv
+2026-03-12 04:34:33,963 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043433.csv
+2026-03-12 04:34:34,053 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043433.csv
+2026-03-12 04:34:34,055 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:34:34,119 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:34:34,120 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:34:34,120 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.3449, std=1.8481
+2026-03-12 04:34:34,120 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:34:34,121 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.2521, std=8.5712
+2026-03-12 04:34:34,121 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:34:34,121 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9493, std=3.2518
+2026-03-12 04:34:34,121 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:34:34,122 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.5548, std=2.6775
+2026-03-12 04:34:34,122 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:34:34,122 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:34:34,122 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:34:34,282 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:34:34,282 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:34:34,337 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043433.csv
+2026-03-12 04:34:34,368 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:34:34,427 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:34:34,427 - processor - INFO - Baseline saved successfully
+2026-03-12 04:34:34,461 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043433_summary.json
+2026-03-12 04:34:34,461 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:35:34,358 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:35:34,358 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:35:34,358 - app - INFO - Processing S3 object: raw/sensors_20260312T043533.csv
+2026-03-12 04:35:34,359 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043533.csv
+2026-03-12 04:35:34,359 - app - INFO - Queued processing task for: raw/sensors_20260312T043533.csv
+2026-03-12 04:35:34,360 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043533.csv
+2026-03-12 04:35:34,433 - processor - INFO - Downloaded 5324 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043533.csv
+2026-03-12 04:35:34,434 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:35:34,504 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:35:34,504 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:35:34,504 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8910, std=2.0031
+2026-03-12 04:35:34,505 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:35:34,505 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.1452, std=5.3909
+2026-03-12 04:35:34,505 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:35:34,505 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.1984, std=2.9512
+2026-03-12 04:35:34,506 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:35:34,506 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0863, std=3.5245
+2026-03-12 04:35:34,506 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:35:34,506 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:35:34,506 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:35:34,665 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:35:34,665 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:35:34,695 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043533.csv
+2026-03-12 04:35:34,727 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:35:34,781 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:35:34,781 - processor - INFO - Baseline saved successfully
+2026-03-12 04:35:34,811 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043533_summary.json
+2026-03-12 04:35:34,811 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:36:33,992 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:36:33,993 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:36:33,993 - app - INFO - Processing S3 object: raw/sensors_20260312T043633.csv
+2026-03-12 04:36:33,993 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043633.csv
+2026-03-12 04:36:33,993 - app - INFO - Queued processing task for: raw/sensors_20260312T043633.csv
+2026-03-12 04:36:33,994 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043633.csv
+2026-03-12 04:36:34,068 - processor - INFO - Downloaded 5336 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043633.csv
+2026-03-12 04:36:34,069 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:36:34,134 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:36:34,134 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:36:34,135 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1212, std=2.1424
+2026-03-12 04:36:34,135 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:36:34,135 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.8401, std=6.0725
+2026-03-12 04:36:34,135 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:36:34,135 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.5497, std=3.9359
+2026-03-12 04:36:34,136 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:36:34,136 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0769, std=2.5837
+2026-03-12 04:36:34,136 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:36:34,136 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:36:34,136 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:36:34,295 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:36:34,295 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:36:34,326 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043633.csv
+2026-03-12 04:36:34,353 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:36:34,423 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:36:34,423 - processor - INFO - Baseline saved successfully
+2026-03-12 04:36:34,455 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043633_summary.json
+2026-03-12 04:36:34,455 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:37:34,472 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:37:34,472 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:37:34,472 - app - INFO - Processing S3 object: raw/sensors_20260312T043733.csv
+2026-03-12 04:37:34,472 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043733.csv
+2026-03-12 04:37:34,472 - app - INFO - Queued processing task for: raw/sensors_20260312T043733.csv
+2026-03-12 04:37:34,474 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043733.csv
+2026-03-12 04:37:34,548 - processor - INFO - Downloaded 5326 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043733.csv
+2026-03-12 04:37:34,549 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:37:34,614 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:37:34,615 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:37:34,615 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1349, std=1.9268
+2026-03-12 04:37:34,615 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:37:34,616 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.9953, std=8.8043
+2026-03-12 04:37:34,616 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:37:34,616 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9447, std=3.6176
+2026-03-12 04:37:34,616 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:37:34,617 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9396, std=2.4750
+2026-03-12 04:37:34,617 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:37:34,617 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:37:34,617 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:37:34,777 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:37:34,777 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:37:34,825 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043733.csv
+2026-03-12 04:37:34,857 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:37:34,895 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:37:34,895 - processor - INFO - Baseline saved successfully
+2026-03-12 04:37:34,929 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043733_summary.json
+2026-03-12 04:37:34,929 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:38:34,071 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:38:34,071 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:38:34,071 - app - INFO - Processing S3 object: raw/sensors_20260312T043833.csv
+2026-03-12 04:38:34,071 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043833.csv
+2026-03-12 04:38:34,071 - app - INFO - Queued processing task for: raw/sensors_20260312T043833.csv
+2026-03-12 04:38:34,073 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043833.csv
+2026-03-12 04:38:34,144 - processor - INFO - Downloaded 5328 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043833.csv
+2026-03-12 04:38:34,145 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:38:34,208 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:38:34,208 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:38:34,208 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8837, std=1.6928
+2026-03-12 04:38:34,209 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:38:34,209 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.5257, std=5.7934
+2026-03-12 04:38:34,209 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:38:34,209 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.0181, std=2.6459
+2026-03-12 04:38:34,210 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:38:34,210 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.7209, std=4.0150
+2026-03-12 04:38:34,210 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:38:34,210 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:38:34,210 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:38:34,374 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:38:34,374 - processor - INFO - EVENT: Detection calculations completed - 7 anomalies detected out of 100 rows
+2026-03-12 04:38:34,412 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043833.csv
+2026-03-12 04:38:34,443 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:38:34,475 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:38:34,475 - processor - INFO - Baseline saved successfully
+2026-03-12 04:38:34,502 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043833_summary.json
+2026-03-12 04:38:34,503 - processor - INFO - Successfully processed: 7/100 anomalies flagged
+2026-03-12 04:39:34,433 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:39:34,433 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:39:34,433 - app - INFO - Processing S3 object: raw/sensors_20260312T043933.csv
+2026-03-12 04:39:34,434 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043933.csv
+2026-03-12 04:39:34,434 - app - INFO - Queued processing task for: raw/sensors_20260312T043933.csv
+2026-03-12 04:39:34,435 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043933.csv
+2026-03-12 04:39:34,505 - processor - INFO - Downloaded 5323 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T043933.csv
+2026-03-12 04:39:34,506 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:39:34,572 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:39:34,572 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:39:34,573 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8111, std=2.8323
+2026-03-12 04:39:34,573 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:39:34,573 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.6475, std=6.8569
+2026-03-12 04:39:34,573 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:39:34,573 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.6934, std=3.0727
+2026-03-12 04:39:34,574 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:39:34,574 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.4401, std=2.4151
+2026-03-12 04:39:34,574 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:39:34,574 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:39:34,574 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:39:34,733 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:39:34,734 - processor - INFO - EVENT: Detection calculations completed - 7 anomalies detected out of 100 rows
+2026-03-12 04:39:34,767 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043933.csv
+2026-03-12 04:39:34,799 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:39:34,864 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:39:34,864 - processor - INFO - Baseline saved successfully
+2026-03-12 04:39:34,893 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T043933_summary.json
+2026-03-12 04:39:34,893 - processor - INFO - Successfully processed: 7/100 anomalies flagged
+2026-03-12 04:40:35,117 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:40:35,118 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:40:35,118 - app - INFO - Processing S3 object: raw/sensors_20260312T044033.csv
+2026-03-12 04:40:35,118 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044033.csv
+2026-03-12 04:40:35,118 - app - INFO - Queued processing task for: raw/sensors_20260312T044033.csv
+2026-03-12 04:40:35,119 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044033.csv
+2026-03-12 04:40:35,191 - processor - INFO - Downloaded 5323 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044033.csv
+2026-03-12 04:40:35,192 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:40:35,256 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:40:35,256 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:40:35,257 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1009, std=1.5581
+2026-03-12 04:40:35,257 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:40:35,257 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.3718, std=5.9349
+2026-03-12 04:40:35,257 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:40:35,258 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.5440, std=4.7013
+2026-03-12 04:40:35,258 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:40:35,258 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.7903, std=3.0897
+2026-03-12 04:40:35,258 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:40:35,258 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:40:35,258 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:40:35,418 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:40:35,418 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:40:35,453 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044033.csv
+2026-03-12 04:40:35,481 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:40:35,511 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:40:35,511 - processor - INFO - Baseline saved successfully
+2026-03-12 04:40:35,539 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044033_summary.json
+2026-03-12 04:40:35,540 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:41:34,681 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:41:34,681 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:41:34,681 - app - INFO - Processing S3 object: raw/sensors_20260312T044133.csv
+2026-03-12 04:41:34,681 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044133.csv
+2026-03-12 04:41:34,681 - app - INFO - Queued processing task for: raw/sensors_20260312T044133.csv
+2026-03-12 04:41:34,682 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044133.csv
+2026-03-12 04:41:34,765 - processor - INFO - Downloaded 5305 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044133.csv
+2026-03-12 04:41:34,766 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:41:34,838 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:41:34,838 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:41:34,839 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0314, std=2.5880
+2026-03-12 04:41:34,839 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:41:34,840 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.2723, std=4.6339
+2026-03-12 04:41:34,840 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:41:34,840 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.5255, std=4.3923
+2026-03-12 04:41:34,840 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:41:34,840 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.4070, std=2.4158
+2026-03-12 04:41:34,840 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:41:34,841 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:41:34,841 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:41:35,000 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:41:35,001 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:41:35,041 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044133.csv
+2026-03-12 04:41:35,081 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:41:35,121 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:41:35,122 - processor - INFO - Baseline saved successfully
+2026-03-12 04:41:35,160 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044133_summary.json
+2026-03-12 04:41:35,160 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:42:34,477 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:42:34,478 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:42:34,478 - app - INFO - Processing S3 object: raw/sensors_20260312T044233.csv
+2026-03-12 04:42:34,478 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044233.csv
+2026-03-12 04:42:34,478 - app - INFO - Queued processing task for: raw/sensors_20260312T044233.csv
+2026-03-12 04:42:34,479 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044233.csv
+2026-03-12 04:42:34,556 - processor - INFO - Downloaded 5316 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044233.csv
+2026-03-12 04:42:34,557 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:42:34,627 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:42:34,627 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:42:34,628 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1560, std=1.9923
+2026-03-12 04:42:34,628 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:42:34,628 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.5508, std=6.4578
+2026-03-12 04:42:34,629 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:42:34,629 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.8286, std=3.3868
+2026-03-12 04:42:34,629 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:42:34,629 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.4690, std=2.1675
+2026-03-12 04:42:34,629 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:42:34,630 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:42:34,630 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:42:34,791 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:42:34,791 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:42:34,834 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044233.csv
+2026-03-12 04:42:34,930 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:42:34,961 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:42:34,961 - processor - INFO - Baseline saved successfully
+2026-03-12 04:42:35,015 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044233_summary.json
+2026-03-12 04:42:35,016 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:43:35,051 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:43:35,051 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:43:35,051 - app - INFO - Processing S3 object: raw/sensors_20260312T044333.csv
+2026-03-12 04:43:35,051 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044333.csv
+2026-03-12 04:43:35,051 - app - INFO - Queued processing task for: raw/sensors_20260312T044333.csv
+2026-03-12 04:43:35,053 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044333.csv
+2026-03-12 04:43:35,123 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044333.csv
+2026-03-12 04:43:35,124 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:43:35,189 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:43:35,189 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:43:35,191 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.6917, std=1.4670
+2026-03-12 04:43:35,191 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:43:35,191 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=53.4595, std=8.7583
+2026-03-12 04:43:35,192 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:43:35,192 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.6959, std=3.9380
+2026-03-12 04:43:35,192 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:43:35,192 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9103, std=3.0769
+2026-03-12 04:43:35,192 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:43:35,192 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:43:35,193 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:43:35,351 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:43:35,352 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:43:35,382 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044333.csv
+2026-03-12 04:43:35,426 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:43:35,458 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:43:35,458 - processor - INFO - Baseline saved successfully
+2026-03-12 04:43:35,485 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044333_summary.json
+2026-03-12 04:43:35,485 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:44:34,781 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:44:34,782 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:44:34,782 - app - INFO - Processing S3 object: raw/sensors_20260312T044434.csv
+2026-03-12 04:44:34,782 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044434.csv
+2026-03-12 04:44:34,782 - app - INFO - Queued processing task for: raw/sensors_20260312T044434.csv
+2026-03-12 04:44:34,783 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044434.csv
+2026-03-12 04:44:34,855 - processor - INFO - Downloaded 5321 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044434.csv
+2026-03-12 04:44:34,857 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:44:34,919 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:44:34,919 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:44:34,920 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0575, std=1.5287
+2026-03-12 04:44:34,920 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:44:34,921 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.7498, std=6.3824
+2026-03-12 04:44:34,921 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:44:34,921 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.8708, std=4.4225
+2026-03-12 04:44:34,921 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:44:34,921 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0894, std=2.6707
+2026-03-12 04:44:34,921 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:44:34,922 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:44:34,922 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:44:35,081 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:44:35,081 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:44:35,117 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044434.csv
+2026-03-12 04:44:35,164 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:44:35,217 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:44:35,217 - processor - INFO - Baseline saved successfully
+2026-03-12 04:44:35,258 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044434_summary.json
+2026-03-12 04:44:35,259 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:45:35,176 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:45:35,176 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:45:35,176 - app - INFO - Processing S3 object: raw/sensors_20260312T044534.csv
+2026-03-12 04:45:35,176 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044534.csv
+2026-03-12 04:45:35,176 - app - INFO - Queued processing task for: raw/sensors_20260312T044534.csv
+2026-03-12 04:45:35,178 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044534.csv
+2026-03-12 04:45:35,251 - processor - INFO - Downloaded 5314 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044534.csv
+2026-03-12 04:45:35,252 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:45:35,312 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:45:35,312 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:45:35,313 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8704, std=1.3363
+2026-03-12 04:45:35,313 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:45:35,313 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.6693, std=6.2010
+2026-03-12 04:45:35,313 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:45:35,314 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1011.9545, std=6.1906
+2026-03-12 04:45:35,314 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:45:35,314 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.7240, std=2.3248
+2026-03-12 04:45:35,314 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:45:35,314 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:45:35,314 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:45:35,475 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:45:35,476 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:45:35,508 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044534.csv
+2026-03-12 04:45:35,538 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:45:35,583 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:45:35,583 - processor - INFO - Baseline saved successfully
+2026-03-12 04:45:35,615 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044534_summary.json
+2026-03-12 04:45:35,616 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:46:34,877 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:46:34,877 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:46:34,877 - app - INFO - Processing S3 object: raw/sensors_20260312T044634.csv
+2026-03-12 04:46:34,877 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044634.csv
+2026-03-12 04:46:34,877 - app - INFO - Queued processing task for: raw/sensors_20260312T044634.csv
+2026-03-12 04:46:34,878 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044634.csv
+2026-03-12 04:46:34,946 - processor - INFO - Downloaded 5315 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044634.csv
+2026-03-12 04:46:34,947 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:46:35,014 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:46:35,014 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:46:35,015 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.9417, std=1.6014
+2026-03-12 04:46:35,015 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:46:35,015 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.9040, std=7.3126
+2026-03-12 04:46:35,015 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:46:35,016 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.7153, std=4.1772
+2026-03-12 04:46:35,016 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:46:35,016 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.6706, std=2.8719
+2026-03-12 04:46:35,016 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:46:35,016 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:46:35,016 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:46:35,176 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:46:35,176 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:46:35,208 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044634.csv
+2026-03-12 04:46:35,239 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:46:35,307 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:46:35,308 - processor - INFO - Baseline saved successfully
+2026-03-12 04:46:35,335 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044634_summary.json
+2026-03-12 04:46:35,335 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:47:35,468 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:47:35,468 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:47:35,468 - app - INFO - Processing S3 object: raw/sensors_20260312T044734.csv
+2026-03-12 04:47:35,468 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044734.csv
+2026-03-12 04:47:35,468 - app - INFO - Queued processing task for: raw/sensors_20260312T044734.csv
+2026-03-12 04:47:35,470 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044734.csv
+2026-03-12 04:47:35,544 - processor - INFO - Downloaded 5325 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044734.csv
+2026-03-12 04:47:35,545 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:47:35,607 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:47:35,607 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:47:35,608 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0658, std=1.8670
+2026-03-12 04:47:35,608 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:47:35,609 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.5410, std=6.4595
+2026-03-12 04:47:35,609 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:47:35,609 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.2196, std=4.4771
+2026-03-12 04:47:35,609 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:47:35,609 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.1721, std=1.9816
+2026-03-12 04:47:35,610 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:47:35,610 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:47:35,610 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:47:35,769 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:47:35,769 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:47:35,821 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044734.csv
+2026-03-12 04:47:35,852 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:47:35,893 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:47:35,893 - processor - INFO - Baseline saved successfully
+2026-03-12 04:47:35,932 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044734_summary.json
+2026-03-12 04:47:35,932 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:48:35,099 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:48:35,099 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:48:35,099 - app - INFO - Processing S3 object: raw/sensors_20260312T044834.csv
+2026-03-12 04:48:35,099 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044834.csv
+2026-03-12 04:48:35,099 - app - INFO - Queued processing task for: raw/sensors_20260312T044834.csv
+2026-03-12 04:48:35,101 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044834.csv
+2026-03-12 04:48:35,177 - processor - INFO - Downloaded 5320 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044834.csv
+2026-03-12 04:48:35,178 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:48:35,248 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:48:35,248 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:48:35,249 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8744, std=1.7519
+2026-03-12 04:48:35,249 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:48:35,249 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.1537, std=6.1096
+2026-03-12 04:48:35,249 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:48:35,249 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.3194, std=3.7607
+2026-03-12 04:48:35,250 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:48:35,250 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0674, std=2.7832
+2026-03-12 04:48:35,250 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:48:35,250 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:48:35,250 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:48:35,409 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:48:35,409 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:48:35,451 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044834.csv
+2026-03-12 04:48:35,476 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:48:35,534 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:48:35,534 - processor - INFO - Baseline saved successfully
+2026-03-12 04:48:35,572 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044834_summary.json
+2026-03-12 04:48:35,572 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:49:35,516 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:49:35,517 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:49:35,517 - app - INFO - Processing S3 object: raw/sensors_20260312T044934.csv
+2026-03-12 04:49:35,517 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044934.csv
+2026-03-12 04:49:35,517 - app - INFO - Queued processing task for: raw/sensors_20260312T044934.csv
+2026-03-12 04:49:35,518 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044934.csv
+2026-03-12 04:49:35,587 - processor - INFO - Downloaded 5328 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T044934.csv
+2026-03-12 04:49:35,589 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:49:35,650 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:49:35,650 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:49:35,651 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0322, std=1.6849
+2026-03-12 04:49:35,651 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:49:35,651 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.8079, std=5.0472
+2026-03-12 04:49:35,652 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:49:35,652 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.0318, std=4.3880
+2026-03-12 04:49:35,652 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:49:35,652 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.3586, std=2.2593
+2026-03-12 04:49:35,652 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:49:35,652 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:49:35,653 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:49:35,812 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:49:35,813 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:49:35,846 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044934.csv
+2026-03-12 04:49:35,876 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:49:35,915 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:49:35,915 - processor - INFO - Baseline saved successfully
+2026-03-12 04:49:35,944 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T044934_summary.json
+2026-03-12 04:49:35,944 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:50:35,096 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:50:35,097 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:50:35,097 - app - INFO - Processing S3 object: raw/sensors_20260312T045034.csv
+2026-03-12 04:50:35,097 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045034.csv
+2026-03-12 04:50:35,097 - app - INFO - Queued processing task for: raw/sensors_20260312T045034.csv
+2026-03-12 04:50:35,098 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045034.csv
+2026-03-12 04:50:35,184 - processor - INFO - Downloaded 5342 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045034.csv
+2026-03-12 04:50:35,186 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:50:35,256 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:50:35,256 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:50:35,257 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.9481, std=1.8242
+2026-03-12 04:50:35,257 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:50:35,257 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.4383, std=5.4163
+2026-03-12 04:50:35,257 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:50:35,258 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9482, std=2.9886
+2026-03-12 04:50:35,258 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:50:35,258 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9341, std=4.5189
+2026-03-12 04:50:35,258 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:50:35,258 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:50:35,258 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:50:35,417 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:50:35,417 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:50:35,451 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045034.csv
+2026-03-12 04:50:35,485 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:50:35,548 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:50:35,548 - processor - INFO - Baseline saved successfully
+2026-03-12 04:50:35,579 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045034_summary.json
+2026-03-12 04:50:35,579 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:51:35,659 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:51:35,660 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:51:35,660 - app - INFO - Processing S3 object: raw/sensors_20260312T045134.csv
+2026-03-12 04:51:35,660 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045134.csv
+2026-03-12 04:51:35,660 - app - INFO - Queued processing task for: raw/sensors_20260312T045134.csv
+2026-03-12 04:51:35,661 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045134.csv
+2026-03-12 04:51:35,741 - processor - INFO - Downloaded 5335 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045134.csv
+2026-03-12 04:51:35,742 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:51:35,835 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:51:35,835 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:51:35,835 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.1177, std=1.6810
+2026-03-12 04:51:35,835 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:51:35,836 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=56.4559, std=6.7735
+2026-03-12 04:51:35,836 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:51:35,836 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.3758, std=2.5220
+2026-03-12 04:51:35,836 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:51:35,837 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0693, std=3.2282
+2026-03-12 04:51:35,837 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:51:35,837 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:51:35,837 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:51:35,996 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:51:35,996 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:51:36,038 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045134.csv
+2026-03-12 04:51:36,079 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:51:36,133 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:51:36,134 - processor - INFO - Baseline saved successfully
+2026-03-12 04:51:36,164 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045134_summary.json
+2026-03-12 04:51:36,164 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:52:36,034 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:52:36,034 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:52:36,034 - app - INFO - Processing S3 object: raw/sensors_20260312T045234.csv
+2026-03-12 04:52:36,034 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045234.csv
+2026-03-12 04:52:36,034 - app - INFO - Queued processing task for: raw/sensors_20260312T045234.csv
+2026-03-12 04:52:36,036 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045234.csv
+2026-03-12 04:52:36,108 - processor - INFO - Downloaded 5327 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045234.csv
+2026-03-12 04:52:36,109 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:52:36,170 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:52:36,170 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:52:36,170 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.2494, std=1.8899
+2026-03-12 04:52:36,171 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:52:36,171 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.7137, std=4.7470
+2026-03-12 04:52:36,171 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:52:36,171 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.7467, std=4.8782
+2026-03-12 04:52:36,171 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:52:36,172 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.8440, std=2.5394
+2026-03-12 04:52:36,172 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:52:36,172 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:52:36,172 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:52:36,332 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:52:36,332 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:52:36,367 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045234.csv
+2026-03-12 04:52:36,429 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:52:36,480 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:52:36,481 - processor - INFO - Baseline saved successfully
+2026-03-12 04:52:36,513 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045234_summary.json
+2026-03-12 04:52:36,513 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:53:35,608 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:53:35,609 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:53:35,609 - app - INFO - Processing S3 object: raw/sensors_20260312T045334.csv
+2026-03-12 04:53:35,609 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045334.csv
+2026-03-12 04:53:35,609 - app - INFO - Queued processing task for: raw/sensors_20260312T045334.csv
+2026-03-12 04:53:35,610 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045334.csv
+2026-03-12 04:53:35,689 - processor - INFO - Downloaded 5326 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045334.csv
+2026-03-12 04:53:35,690 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:53:35,753 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:53:35,753 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:53:35,754 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0001, std=1.7587
+2026-03-12 04:53:35,754 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:53:35,755 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.9213, std=5.4831
+2026-03-12 04:53:35,755 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:53:35,755 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.2662, std=3.9309
+2026-03-12 04:53:35,755 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:53:35,755 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.3065, std=3.0885
+2026-03-12 04:53:35,756 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:53:35,756 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:53:35,756 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:53:35,915 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:53:35,915 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:53:35,946 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045334.csv
+2026-03-12 04:53:35,977 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:53:36,022 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:53:36,023 - processor - INFO - Baseline saved successfully
+2026-03-12 04:53:36,060 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045334_summary.json
+2026-03-12 04:53:36,060 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:54:36,147 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:54:36,147 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:54:36,148 - app - INFO - Processing S3 object: raw/sensors_20260312T045434.csv
+2026-03-12 04:54:36,148 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045434.csv
+2026-03-12 04:54:36,148 - app - INFO - Queued processing task for: raw/sensors_20260312T045434.csv
+2026-03-12 04:54:36,149 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045434.csv
+2026-03-12 04:54:36,221 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045434.csv
+2026-03-12 04:54:36,223 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:54:36,287 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:54:36,287 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:54:36,287 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.8363, std=1.7137
+2026-03-12 04:54:36,288 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:54:36,288 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.3800, std=6.6657
+2026-03-12 04:54:36,288 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:54:36,288 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.9811, std=4.5232
+2026-03-12 04:54:36,288 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:54:36,289 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.6850, std=2.6211
+2026-03-12 04:54:36,289 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:54:36,289 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:54:36,289 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:54:36,448 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:54:36,449 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:54:36,485 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045434.csv
+2026-03-12 04:54:36,510 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:54:36,545 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:54:36,545 - processor - INFO - Baseline saved successfully
+2026-03-12 04:54:36,570 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045434_summary.json
+2026-03-12 04:54:36,570 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:55:35,634 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:55:35,634 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:55:35,634 - app - INFO - Processing S3 object: raw/sensors_20260312T045534.csv
+2026-03-12 04:55:35,634 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045534.csv
+2026-03-12 04:55:35,634 - app - INFO - Queued processing task for: raw/sensors_20260312T045534.csv
+2026-03-12 04:55:35,635 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045534.csv
+2026-03-12 04:55:35,712 - processor - INFO - Downloaded 5317 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045534.csv
+2026-03-12 04:55:35,713 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:55:35,771 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:55:35,772 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:55:35,772 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.9058, std=1.8467
+2026-03-12 04:55:35,772 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:55:35,773 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.8145, std=5.4904
+2026-03-12 04:55:35,773 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:55:35,773 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.4411, std=4.5812
+2026-03-12 04:55:35,773 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:55:35,773 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0393, std=2.7282
+2026-03-12 04:55:35,774 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:55:35,774 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:55:35,774 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:55:35,933 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:55:35,933 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:55:35,967 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045534.csv
+2026-03-12 04:55:35,995 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:55:36,042 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:55:36,042 - processor - INFO - Baseline saved successfully
+2026-03-12 04:55:36,079 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045534_summary.json
+2026-03-12 04:55:36,079 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:56:36,123 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:56:36,123 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:56:36,123 - app - INFO - Processing S3 object: raw/sensors_20260312T045635.csv
+2026-03-12 04:56:36,123 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045635.csv
+2026-03-12 04:56:36,123 - app - INFO - Queued processing task for: raw/sensors_20260312T045635.csv
+2026-03-12 04:56:36,125 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045635.csv
+2026-03-12 04:56:36,222 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045635.csv
+2026-03-12 04:56:36,224 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:56:36,291 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:56:36,291 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:56:36,292 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.9068, std=1.2885
+2026-03-12 04:56:36,292 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:56:36,292 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=56.2521, std=6.8356
+2026-03-12 04:56:36,292 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:56:36,293 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.5166, std=2.9669
+2026-03-12 04:56:36,293 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:56:36,293 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.4780, std=4.8175
+2026-03-12 04:56:36,293 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:56:36,293 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:56:36,293 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:56:36,453 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:56:36,453 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:56:36,500 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045635.csv
+2026-03-12 04:56:36,530 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:56:36,599 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:56:36,599 - processor - INFO - Baseline saved successfully
+2026-03-12 04:56:36,640 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045635_summary.json
+2026-03-12 04:56:36,640 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:57:36,438 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:57:36,438 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:57:36,438 - app - INFO - Processing S3 object: raw/sensors_20260312T045735.csv
+2026-03-12 04:57:36,438 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045735.csv
+2026-03-12 04:57:36,438 - app - INFO - Queued processing task for: raw/sensors_20260312T045735.csv
+2026-03-12 04:57:36,440 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045735.csv
+2026-03-12 04:57:36,512 - processor - INFO - Downloaded 5318 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045735.csv
+2026-03-12 04:57:36,513 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:57:36,584 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:57:36,584 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:57:36,585 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0430, std=1.7672
+2026-03-12 04:57:36,585 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:57:36,585 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.7720, std=6.0699
+2026-03-12 04:57:36,585 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:57:36,586 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.6420, std=4.9366
+2026-03-12 04:57:36,586 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:57:36,586 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.1798, std=2.5553
+2026-03-12 04:57:36,586 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:57:36,586 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:57:36,586 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:57:36,746 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:57:36,747 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 04:57:36,777 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045735.csv
+2026-03-12 04:57:36,807 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:57:36,850 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:57:36,851 - processor - INFO - Baseline saved successfully
+2026-03-12 04:57:36,879 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045735_summary.json
+2026-03-12 04:57:36,879 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 04:58:36,015 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:58:36,015 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:58:36,015 - app - INFO - Processing S3 object: raw/sensors_20260312T045835.csv
+2026-03-12 04:58:36,015 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045835.csv
+2026-03-12 04:58:36,015 - app - INFO - Queued processing task for: raw/sensors_20260312T045835.csv
+2026-03-12 04:58:36,016 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045835.csv
+2026-03-12 04:58:36,087 - processor - INFO - Downloaded 5315 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045835.csv
+2026-03-12 04:58:36,088 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:58:36,153 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:58:36,154 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:58:36,154 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.2497, std=2.1668
+2026-03-12 04:58:36,154 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:58:36,155 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.4110, std=6.8315
+2026-03-12 04:58:36,155 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:58:36,155 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.8841, std=3.3958
+2026-03-12 04:58:36,156 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:58:36,156 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9552, std=3.4983
+2026-03-12 04:58:36,156 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:58:36,156 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:58:36,156 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:58:36,318 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:58:36,318 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:58:36,366 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045835.csv
+2026-03-12 04:58:36,422 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:58:36,458 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:58:36,459 - processor - INFO - Baseline saved successfully
+2026-03-12 04:58:36,488 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045835_summary.json
+2026-03-12 04:58:36,488 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 04:59:36,409 - app - INFO - Received SNS message type: Notification
+2026-03-12 04:59:36,409 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 04:59:36,409 - app - INFO - Processing S3 object: raw/sensors_20260312T045935.csv
+2026-03-12 04:59:36,409 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045935.csv
+2026-03-12 04:59:36,409 - app - INFO - Queued processing task for: raw/sensors_20260312T045935.csv
+2026-03-12 04:59:36,410 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045935.csv
+2026-03-12 04:59:36,496 - processor - INFO - Downloaded 5317 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T045935.csv
+2026-03-12 04:59:36,497 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 04:59:36,561 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 04:59:36,562 - processor - INFO - Baseline loaded successfully
+2026-03-12 04:59:36,562 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0182, std=1.7327
+2026-03-12 04:59:36,562 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 04:59:36,563 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.3019, std=6.7875
+2026-03-12 04:59:36,563 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 04:59:36,563 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.1281, std=3.5961
+2026-03-12 04:59:36,563 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 04:59:36,564 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.8364, std=3.0721
+2026-03-12 04:59:36,564 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 04:59:36,564 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 04:59:36,564 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 04:59:36,723 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 04:59:36,723 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 04:59:36,766 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045935.csv
+2026-03-12 04:59:36,793 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 04:59:36,839 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 04:59:36,839 - processor - INFO - Baseline saved successfully
+2026-03-12 04:59:36,875 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T045935_summary.json
+2026-03-12 04:59:36,876 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 05:00:35,941 - app - INFO - Received SNS message type: Notification
+2026-03-12 05:00:35,941 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 05:00:35,941 - app - INFO - Processing S3 object: raw/sensors_20260312T050035.csv
+2026-03-12 05:00:35,942 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050035.csv
+2026-03-12 05:00:35,942 - app - INFO - Queued processing task for: raw/sensors_20260312T050035.csv
+2026-03-12 05:00:35,943 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050035.csv
+2026-03-12 05:00:36,016 - processor - INFO - Downloaded 5327 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050035.csv
+2026-03-12 05:00:36,017 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 05:00:36,079 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 05:00:36,079 - processor - INFO - Baseline loaded successfully
+2026-03-12 05:00:36,080 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.7110, std=2.3321
+2026-03-12 05:00:36,080 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 05:00:36,080 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.2862, std=6.6265
+2026-03-12 05:00:36,080 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 05:00:36,081 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.6755, std=3.2192
+2026-03-12 05:00:36,081 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 05:00:36,081 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=10.0851, std=2.4608
+2026-03-12 05:00:36,081 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 05:00:36,081 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 05:00:36,081 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 05:00:36,241 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 05:00:36,241 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 05:00:36,272 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050035.csv
+2026-03-12 05:00:36,299 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 05:00:36,357 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 05:00:36,357 - processor - INFO - Baseline saved successfully
+2026-03-12 05:00:36,434 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050035_summary.json
+2026-03-12 05:00:36,435 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 05:01:36,531 - app - INFO - Received SNS message type: Notification
+2026-03-12 05:01:36,531 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 05:01:36,531 - app - INFO - Processing S3 object: raw/sensors_20260312T050135.csv
+2026-03-12 05:01:36,531 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050135.csv
+2026-03-12 05:01:36,532 - app - INFO - Queued processing task for: raw/sensors_20260312T050135.csv
+2026-03-12 05:01:36,533 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050135.csv
+2026-03-12 05:01:36,607 - processor - INFO - Downloaded 5323 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050135.csv
+2026-03-12 05:01:36,608 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 05:01:36,674 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 05:01:36,674 - processor - INFO - Baseline loaded successfully
+2026-03-12 05:01:36,675 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=21.5576, std=1.6361
+2026-03-12 05:01:36,675 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 05:01:36,676 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.9377, std=7.8768
+2026-03-12 05:01:36,676 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 05:01:36,676 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.3541, std=3.1088
+2026-03-12 05:01:36,676 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 05:01:36,676 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9915, std=3.2672
+2026-03-12 05:01:36,676 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 05:01:36,677 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 05:01:36,677 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 05:01:36,837 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 05:01:36,838 - processor - INFO - EVENT: Detection calculations completed - 6 anomalies detected out of 100 rows
+2026-03-12 05:01:36,868 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050135.csv
+2026-03-12 05:01:36,900 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 05:01:36,935 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 05:01:36,935 - processor - INFO - Baseline saved successfully
+2026-03-12 05:01:36,963 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050135_summary.json
+2026-03-12 05:01:36,963 - processor - INFO - Successfully processed: 6/100 anomalies flagged
+2026-03-12 05:02:36,789 - app - INFO - Received SNS message type: Notification
+2026-03-12 05:02:36,790 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 05:02:36,790 - app - INFO - Processing S3 object: raw/sensors_20260312T050235.csv
+2026-03-12 05:02:36,790 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050235.csv
+2026-03-12 05:02:36,790 - app - INFO - Queued processing task for: raw/sensors_20260312T050235.csv
+2026-03-12 05:02:36,791 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050235.csv
+2026-03-12 05:02:36,864 - processor - INFO - Downloaded 5314 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050235.csv
+2026-03-12 05:02:36,865 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 05:02:36,931 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 05:02:36,931 - processor - INFO - Baseline loaded successfully
+2026-03-12 05:02:36,931 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.5196, std=1.8890
+2026-03-12 05:02:36,931 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 05:02:36,932 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=55.5163, std=9.5193
+2026-03-12 05:02:36,932 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 05:02:36,932 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1013.2421, std=2.8548
+2026-03-12 05:02:36,932 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 05:02:36,933 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.9552, std=2.6287
+2026-03-12 05:02:36,933 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 05:02:36,933 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 05:02:36,933 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 05:02:37,092 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 05:02:37,093 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 05:02:37,136 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050235.csv
+2026-03-12 05:02:37,167 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
+2026-03-12 05:02:37,199 - baseline - INFO - Uploaded log file to s3://anomaly-detection-bucket-zoehendershot/logs/anomaly-api.log
+2026-03-12 05:02:37,200 - processor - INFO - Baseline saved successfully
+2026-03-12 05:02:37,268 - processor - INFO - Wrote summary file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050235_summary.json
+2026-03-12 05:02:37,269 - processor - INFO - Successfully processed: 5/100 anomalies flagged
+2026-03-12 05:03:10,597 - uvicorn.error - WARNING - Invalid HTTP request received.
+2026-03-12 05:03:10,702 - uvicorn.error - WARNING - Invalid HTTP request received.
+2026-03-12 05:03:36,369 - app - INFO - Received SNS message type: Notification
+2026-03-12 05:03:36,369 - app - INFO - Processing 1 S3 event record(s)
+2026-03-12 05:03:36,369 - app - INFO - Processing S3 object: raw/sensors_20260312T050335.csv
+2026-03-12 05:03:36,369 - app - INFO - EVENT: New file arrived - s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050335.csv
+2026-03-12 05:03:36,369 - app - INFO - Queued processing task for: raw/sensors_20260312T050335.csv
+2026-03-12 05:03:36,370 - processor - INFO - Processing: s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050335.csv
+2026-03-12 05:03:36,443 - processor - INFO - Downloaded 5326 bytes from s3://anomaly-detection-bucket-zoehendershot/raw/sensors_20260312T050335.csv
+2026-03-12 05:03:36,444 - processor - INFO - Loaded 100 rows, columns: ['timestamp', 'temperature', 'humidity', 'pressure', 'wind_speed']
+2026-03-12 05:03:36,516 - baseline - INFO - Baseline file not found, returning empty baseline: s3://anomaly-detection-bucket-zoehendershot/state/baseline.json
+2026-03-12 05:03:36,516 - processor - INFO - Baseline loaded successfully
+2026-03-12 05:03:36,517 - baseline - INFO - EVENT: Baseline updated for channel 'temperature': count=100, mean=22.0616, std=1.5901
+2026-03-12 05:03:36,517 - processor - INFO - EVENT: Baseline updated for channel 'temperature': 0 -> 100 observations
+2026-03-12 05:03:36,517 - baseline - INFO - EVENT: Baseline updated for channel 'humidity': count=100, mean=54.8800, std=6.6334
+2026-03-12 05:03:36,518 - processor - INFO - EVENT: Baseline updated for channel 'humidity': 0 -> 100 observations
+2026-03-12 05:03:36,518 - baseline - INFO - EVENT: Baseline updated for channel 'pressure': count=100, mean=1012.8445, std=3.2037
+2026-03-12 05:03:36,518 - processor - INFO - EVENT: Baseline updated for channel 'pressure': 0 -> 100 observations
+2026-03-12 05:03:36,519 - baseline - INFO - EVENT: Baseline updated for channel 'wind_speed': count=100, mean=9.7144, std=3.0321
+2026-03-12 05:03:36,519 - processor - INFO - EVENT: Baseline updated for channel 'wind_speed': 0 -> 100 observations
+2026-03-12 05:03:36,522 - processor - INFO - EVENT: Baseline updated with new values from file
+2026-03-12 05:03:36,522 - processor - INFO - EVENT: Starting anomaly detection calculations for 100 rows
+2026-03-12 05:03:36,694 - detector - INFO - Detection completed: method=both, rows=100
+2026-03-12 05:03:36,694 - processor - INFO - EVENT: Detection calculations completed - 5 anomalies detected out of 100 rows
+2026-03-12 05:03:36,726 - processor - INFO - Wrote processed file: s3://anomaly-detection-bucket-zoehendershot/processed/sensors_20260312T050335.csv
+2026-03-12 05:03:36,761 - baseline - INFO - Saved final baseline copy to s3://anomaly-detection-bucket-zoehendershot/state/baseline-final.json
