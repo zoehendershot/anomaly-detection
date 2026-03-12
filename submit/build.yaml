@@ -161,6 +161,12 @@ Resources:
             # Export for this bootstrap session
             export BUCKET_NAME='${AppBucket}'
 
+            # Ensure log directory exists and is writable by ubuntu user
+            mkdir -p /var/log
+            touch /var/log/anomaly-api.log
+            chown ubuntu:ubuntu /var/log/anomaly-api.log
+            chmod 644 /var/log/anomaly-api.log
+
             cat >/etc/systemd/system/anomaly-api.service <<EOF
             [Unit]
             Description=FastAPI anomaly detection service
