@@ -36,6 +36,21 @@ except Exception as e:
     logger.error(f"Failed to initialize application: {e}", exc_info=True)
     raise
 
+
+def sync_log_to_s3():
+    try:
+        log_path = "/var/log/anomaly-api.log"
+        s3_key = "logs/anomaly-api.log"
+
+        if os.path.exists(log_path):
+            s3.upload_file(log_path, BUCKET_NAME, s3_key)
+            logger.info(f"Uploaded log file to s3://{BUCKET_NAME}/{s3_key}")
+        else:
+            logger.warning("Log file not found, skipping S3 upload")
+
+    except Exception as e:
+        logger.error(f"Failed to upload log file: {e}", exc_info=True)
+
 # ── SNS subscription confirmation + message handler ──────────────────────────
 
 @app.post("/notify")
@@ -234,12 +249,44 @@ def get_current_baseline():
     try:
         logger.info("Fetching current baseline")
         baseline_mgr = BaselineManager(bucket=BUCKET_NAME)
-        
+
         try:
             baseline = baseline_mgr.load()
+            baseline_mgr.save(baseline)
+            logger.info("Saved baseline.json to S3")
+            sync_log_to_s3()
         except Exception as e:
             logger.error(f"Failed to load baseline: {e}", exc_info=True)
             raise HTTPException(status_code=500, detail=f"Failed to load baseline: {str(e)}")
+
+        channels = {}
+        for channel, stats in baseline.items():
+            if channel == "last_updated":
+                continue
+            if not isinstance(stats, dict):
+                logger.warning(f"Invalid stats format for channel {channel}")
+                continue
+
+            channels[channel] = {
+                "observations": stats.get("count", 0),
+                "mean": round(stats.get("mean", 0.0), 4),
+                "std": round(stats.get("std", 0.0), 4),
+                "baseline_mature": stats.get("count", 0) >= 30,
+            }
+
+        result = {
+            "last_updated": baseline.get("last_updated"),
+            "channels": channels,
+        }
+
+        logger.info(f"Returning baseline with {len(channels)} channels")
+        return result
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Critical error in get_current_baseline: {e}", exc_info=True)
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
 
         channels = {}
         try:

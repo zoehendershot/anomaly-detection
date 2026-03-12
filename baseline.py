@@ -90,28 +90,26 @@ class BaselineManager:
             raise
 
     def save(self, baseline: dict):
-        try:
-            baseline["last_updated"] = datetime.utcnow().isoformat()
-            baseline_json = json.dumps(baseline, indent=2)
-            s3.put_object(
-                Bucket=self.bucket,
-                Key=self.baseline_key,
-                Body=baseline_json,
-                ContentType="application/json"
-            )
-            logger.info(f"EVENT: Baseline saved to s3://{self.bucket}/{self.baseline_key}")
-            print(f"EVENT: Baseline saved to s3://{self.bucket}/{self.baseline_key}")
-            
-            # Sync log file to S3 whenever baseline is saved
-            try:
-                sync_log_to_s3(self.bucket)
-            except Exception as e:
-                logger.warning(f"Log sync failed (non-critical): {e}")
-        except Exception as e:
-            error_msg = f"Failed to save baseline to s3://{self.bucket}/{self.baseline_key}: {e}"
-            logger.error(error_msg, exc_info=True)
-            print(f"ERROR: {error_msg}")
-            raise
+        baseline["last_updated"] = datetime.utcnow().isoformat()
+        baseline_json = json.dumps(baseline, indent=2)
+
+        # copy of final baseline
+        s3.put_object(
+            Bucket=self.bucket,
+            Key="state/baseline-final.json",
+            Body=baseline_json,
+            ContentType="application/json"
+        )
+        logger.info(f"Saved final baseline copy to s3://{self.bucket}/state/baseline-final.json")
+
+        # sync log file too
+        log_path = "/var/log/anomaly-api.log"
+        if os.path.exists(log_path):
+            s3.upload_file(log_path, self.bucket, "logs/anomaly-api.log")
+            logger.info(f"Uploaded log file to s3://{self.bucket}/logs/anomaly-api.log")
+        else:
+            logger.warning("Log file not found, skipping log upload")
+
 
     def update(self, baseline: dict, channel: str, new_values: list[float]) -> dict:
         """

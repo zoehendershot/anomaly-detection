@@ -198,7 +198,8 @@ Resources:
       InstanceId:
         Ref: AppInstance
       AllocationId:
-        Ref: AppEIP
+        Fn::GetAtt: [AppEIP, AllocationId]
+
 
   AppSubscription:
     Type: AWS::SNS::Subscription
